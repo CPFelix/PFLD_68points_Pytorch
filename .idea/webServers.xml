@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7c8ee15b-3bf2-490b-8411-4dc45dd41752" name="213-PFLD_68points_Pytorch">
+        <fileTransfer rootFolder="/home/chenpengfei/PFLD_68points_Pytorch" accessType="SFTP" host="10.10.10.213" port="22222" sshConfigId="e00c6439-d041-486b-80d4-a4c692c14a90" sshConfig="213服务器">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
